@@ -1,0 +1,3 @@
+/u/sidsun/Learning/GPU-Matmul/build/CMakeFiles/gpu_matmul.dir
+/u/sidsun/Learning/GPU-Matmul/build/CMakeFiles/edit_cache.dir
+/u/sidsun/Learning/GPU-Matmul/build/CMakeFiles/rebuild_cache.dir

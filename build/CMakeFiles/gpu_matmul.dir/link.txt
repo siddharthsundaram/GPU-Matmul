@@ -1,0 +1,1 @@
+/usr/bin/g++ @CMakeFiles/gpu_matmul.dir/objects1.rsp CMakeFiles/gpu_matmul.dir/cmake_device_link.o -o gpu_matmul @CMakeFiles/gpu_matmul.dir/linkLibs.rsp -L"/lusr/cuda-12.2.2/targets/x86_64-linux/lib/stubs" -L"/lusr/cuda-12.2.2/targets/x86_64-linux/lib"

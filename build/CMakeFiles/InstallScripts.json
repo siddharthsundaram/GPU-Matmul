@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/u/sidsun/Learning/GPU-Matmul/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
